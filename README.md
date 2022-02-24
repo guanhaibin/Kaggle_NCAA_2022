@@ -1,1 +1,1 @@
-# Kaggle_NCAA_2022
+# Kaggle NCAA 2022
